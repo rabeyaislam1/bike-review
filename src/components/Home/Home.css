@@ -1,0 +1,43 @@
+.home-container {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bike-details h1, h2{
+    margin: 0px;
+}
+.bike-details h1{
+    color: #9d1f1f;
+    font-size: 40px;
+}
+.bike-details h2{
+    color:  #be0f6c;
+    font-size: 30px;
+}
+.bike-details p{
+    font-size: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+.bike-details button{
+    text-decoration: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: rgb(209, 201, 201);
+    border: 2px solid rgb(209, 201, 201);
+}
+.bike-details button:hover {
+    background-color: rgb(231, 231, 118);
+}
+.home-review-container button{
+    background-color: rgb(209, 201, 201);
+    font-size: 15px;
+    width: 180px;
+    height: 40px;
+    border: 2px solid rgb(209, 201, 201);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}

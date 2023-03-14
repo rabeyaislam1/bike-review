@@ -1,0 +1,50 @@
+[
+    {
+        "postId": 3,
+        "id": 1,
+        "name": "Jhon",
+        "body": "I love this bike but you can't drive it on the mud roads as it belongs to sports bike, I want yamaha to bring new version v5, v4 is not looking as good as v3. So I suggest them to bring v5 as soon as possible to you. The mileage is good but no one likes it looks",
+        "ratting": "9/10",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUftCQRgVcLNy-j4C7bqsTDftnYMAE7z-AA&usqp=CAU"
+    },
+    {
+        "postId": 3,
+        "id": 2,
+        "name": "Mostofa",
+        "ratting": "6/10",
+        "body": "Less maintenance, beast driving experience, need to improve in pickup but best in 155cc, the fiber is better than V3 mileage bike, easy, affordable, value for money. In V4 we can track & street mode which benefit us in highways Finally at last bike is awesome",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsIlzGp1laQheiAAjrbJJ3pasHLjMBnIUEZg&usqp=CAU"
+    },
+    {
+        "postId": 3,
+        "id": 3,
+        "name": "Salman",
+        "body": "I had owned a yamaha yzf r15 v4 and I bought about 3-6 months back and the riding experience was awesome and the look was very clear and speed is awesome of bike and the servicing is given from time to time and I was very happy and any of my friend's was saying ",
+        "ratting": "5/10",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrJ2R9O5THIdzGHJl3RjnK2Bxzj20iYSsMQA&usqp=CAU"
+    },
+    {
+        "postId": 4,
+        "id": 4,
+        "name": "Anjum",
+        "body": " This is gonna be a great bike for a middle class, the price was very affordable and friendly, our category people can't afford much money on bike we too had dreams of having a superbike for longer period ,this bike is a complete package of it. Its servicing and maintena",
+        "ratting": "8/10",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIy4kRyqQYE-eyQQEMvkgyyDv0IEHECKuNQ&usqp=CAU"
+    },
+    {
+        "postId": 5,
+        "id": 5,
+        "name": "Jamal",
+        "body": "I went to yamaha showroom dumka in jharkhand today to know the on-road price of yamaha r15 v4 m. When I asked the manager, he told the on road price is two lakh sixteen thousand. And his behavior was very bad.",
+        "ratting": "6/10",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19urE4x5YYNW5YH4Hhfos32BKk34TsZuTcg&usqp=CAU"
+    },
+    {
+        "postId": 6,
+        "id": 6,
+        "name": "Rock",
+        "body": "Price is on higher side but it's worth it. Looks are outstanding and eye catching No comfort for pillion though. Cannot drive for more than an hour due to wrist and back pain initially, but when you adapt it will be at ease Braking and dual channel abs is awesome. ",
+        "ratting": "2/10",
+        "userImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeq156jFRSOu4taqykolM4YfHXC31XmnDS-w&usqp=CAU"
+    }
+]

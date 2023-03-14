@@ -1,0 +1,14 @@
+.chart-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10%;
+}
+.sell p {
+    color: blueviolet;
+    font-size: 30px;
+}
+.investment-revenue p {
+    color: blueviolet;
+    font-size: 30px;
+}
